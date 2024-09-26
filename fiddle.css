@@ -1,0 +1,22 @@
+div{
+    padding: 0.5rem;
+}
+#init{
+    padding: 0.25rem;
+    border-radius: 5px;
+    width: 1rem;
+}
+textarea{
+    width: 20rem;
+    height: 10rem;
+}
+#score-input label{
+    display: block;
+    margin-bottom: 0.5rem;
+}
+button{
+    padding: 0.5rem;
+    border-radius: 5px;
+    background-color: rgb(7, 75, 75);
+    color:#fff;
+}
